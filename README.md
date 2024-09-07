@@ -9,7 +9,7 @@
 📧 **Contact Information:**
 - **Phone:** +91-9014327494
 - **Email:** [2200030837cseh@gmail.com](mailto:2200030837cseh@gmail.com)
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/likithkandepu13/)
+- **LinkedIn:** [@likithkandepu13](https://www.linkedin.com/in/likithkandepu13/)
 
 
 ---
@@ -31,6 +31,11 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-lightgrey)
+![Spring](https://img.shields.io/badge/Framework-Spring-green)
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
+
 
 - **Programming Languages:** Java, JavaScript, C
 - **Full Stack Development:** HTML, CSS, ReactJS, Redux, Node.js, Express, Spring, Hibernate
