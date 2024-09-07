@@ -9,8 +9,8 @@
 📧 **Contact Information:**
 - **Phone:** +91-9014327494
 - **Email:** [2200030837cseh@gmail.com](mailto:2200030837cseh@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **GitHub:** [Your GitHub Profile](#)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/likithkandepu13/)
+
 
 ---
 
