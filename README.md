@@ -1,14 +1,15 @@
-- 👋 Hi,
-- 👀 I’m interested in Full Stack Web Development 
-- 🌱 I’m currently learning ReactJS, NodeJS, Spring, ExpressJS, and other Technologies that help me build web apps.
-- 💞️ I’m looking to collaborate on the development of the basic projects that I'm working on
-- 📫 How to reach me: You can contact me in Linkedin/likith kandepu, or give an issue in some repository.
-
 # 👋 Hi, I'm Likith Anju Sai Bhargav Kandepu
 
+- 👀 I’m interested in Full Stack Web Development  
+- 🌱 I’m currently learning ReactJS, NodeJS, Spring, ExpressJS, and other Technologies that help me build web apps.  
+- 💞️ I’m looking to collaborate on the development of the basic projects that I'm working on  
+- 📫 How to reach me: You can contact me on [LinkedIn](https://www.linkedin.com/in/likithkandepu13/), or raise an issue in any of my repositories.
+
+---
+
 📧 **Contact Information:**
-- **Phone:** +91-9014327494
-- **Email:** [2200030837cseh@gmail.com](mailto:2200030837cseh@gmail.com)
+- **Phone:** +91-9014327494  
+- **Email:** [2200030837cseh@gmail.com](mailto:2200030837cseh@gmail.com)  
 - **LinkedIn:** [@likithkandepu13](https://www.linkedin.com/in/likithkandepu13/)
 
 ---
@@ -17,7 +18,7 @@
 
 | **Degree**         | **Institute**              | **Board / University** | **CGPA/Percentage** | **Year**    |
 |--------------------|----------------------------|------------------------|---------------------|-------------|
-| B.Tech CSE          | KL University, Guntur      | KLEF                   | 9.74 (Till 4th Sem)  | 2022-2026   |
+| B.Tech CSE          | KL University, Guntur      | KLEF                   | 9.74 (Till 4th Sem) | 2022-2026   |
 | Senior Secondary    | Ascent Classes             | BOIE                   | 96.2%               | 2020-2022   |
 | Class X             | Sri Chaitanya School       | CBSE                   | 88.89%              | 2020        |
 
@@ -41,12 +42,12 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-- **Programming Languages:** Java, JavaScript, C
-- **Full Stack Development:** HTML, CSS, ReactJS, Redux, Node.js, Express, Spring, Hibernate
-- **Database:** MongoDB, MySQL, PostgreSQL
-- **Cloud & DevOps:** AWS, Docker, Jenkins, Kubernetes, Terraform, CI/CD, GitHub Actions
-- **Developer Tools:** VS Code, Git, Eclipse, Postman
-- **Other Tools:** GraphQL, Automation Anywhere
+- **Programming Languages:** Java, JavaScript, C  
+- **Full Stack Development:** HTML, CSS, ReactJS, Redux, Node.js, Express, Spring, Hibernate  
+- **Database:** MongoDB, MySQL, PostgreSQL  
+- **Cloud & DevOps:** AWS, Docker, Jenkins, Kubernetes, Terraform, CI/CD, GitHub Actions  
+- **Developer Tools:** VS Code, Git, Eclipse, Postman  
+- **Other Tools:** GraphQL, Automation Anywhere  
 
 ---
 
@@ -56,53 +57,64 @@
 **Position:** Web Developer and Co-Founder  
 **Location:** Visakhapatnam  
 **Duration:** June 2023 - Present  
-- Led the development of DestinEdge, an Online Travel Agency (OTA) focused on enhancing travel convenience.
-- Developed a user-centric website using the MERN stack, offering curated travel packages.
-- Improved website performance by 20% through troubleshooting and debugging.
-- Implemented new features, increasing user engagement by 75%.
-- Mission: Deliver seamless, personalized travel experiences.
+- Led the development of DestinEdge, an Online Travel Agency (OTA) focused on enhancing travel convenience.  
+- Developed a user-centric website using the MERN stack, offering curated travel packages.  
+- Improved website performance by 20% through troubleshooting and debugging.  
+- Implemented new features, increasing user engagement by 75%.  
+- Mission: Deliver seamless, personalized travel experiences.  
 
 ---
 
 ## 💻 **Projects**
 
-### 🎯 [Online Donation System for NGO](#)  
+### 🎯 Online Donation System for NGO  
 **Duration:** Dec 2023 - Apr 2024  
-- Built an online donation management system for the Collection of donations in Urban areas, using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- Integrated a secure payment gateway, simplifying donation processes.
-- Documented system architecture and APIs to streamline team collaboration.
+- Built an online donation management system using the MERN stack.  
+- Integrated a secure payment gateway for easy transactions.  
+- Documented API architecture for future enhancements and team collaboration.  
 
-### 📊 [Attendance Calculator for University Students](#)  
+### 📊 Attendance Calculator for University Students  
 **Duration:** Mar 2024 - Apr 2024  
-- Created a React-based app to help students manage their attendance.
-- Implemented an intuitive interface with hooks for tracking attendance patterns.
-- Empowered students to proactively manage their attendance.
+- React-based tool to track and manage student attendance.  
+- Used React hooks and state management for real-time updates.  
+
+### ☁️ Virtual Private Cloud Automation using Docker  
+**Duration:** May 2024  
+- Automated private cloud deployments using Docker containers.  
+- Simplified setup for web apps without involving full CI/CD pipelines.  
+
+### 🏡 Homestay Recommendation System for Local Tourists  
+**Duration:** May 2024 - June 2024  
+- Built using **Spring Boot**, **Hibernate**, and **ReactJS**.  
+- Recommends personalized homestay options based on location and user preferences.  
+- Aimed at supporting local tourism and enhancing traveler convenience.  
 
 ---
 
 ## 🎖 **Certifications**
 
-- ![Cambridge](https://img.shields.io/badge/Cambridge-B2-blue?style=flat-square) **Cambridge LinguaSkill English** (Cambridge University Press and Assessment, B2)
-- ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-A360-orange?style=flat-square) **Automation Anywhere Certified Essentials RPA Professional** (Automation 360, Automation Anywhere University)
-- ![Postman](https://img.shields.io/badge/Postman-API--Expert-orange?style=flat-square) **Postman API Student Expert** (Postman)
-- ![Azure](https://img.shields.io/badge/Microsoft-AI_900-blue?style=flat-square) **Microsoft Azure AI-900** (Microsoft)
+- ![Cambridge](https://img.shields.io/badge/Cambridge-B2-blue?style=flat-square) **Cambridge LinguaSkill English** – B2  
+- ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-A360-orange?style=flat-square) **Essentials RPA Professional** – Automation 360  
+- ![Postman](https://img.shields.io/badge/Postman-API--Expert-orange?style=flat-square) **Postman Student Expert**  
+- ![Azure](https://img.shields.io/badge/Microsoft-AI_900-blue?style=flat-square) **Microsoft Azure AI-900**  
+- ![Coding Platforms](https://img.shields.io/badge/Competitive_Programming-Active-blue?style=flat-square) **Competitive Programmer** – Active on various CP platforms  
 
 ---
 
 ## 🌐 **Positions of Responsibility**
 
-- **Technical and Marketing Team, Kognitiv Club, CSEH, KL University**  
-  Apr 2020 - Present
-- **Public Relations Team, University Samyak Fest**  
-  Sept 2023 - Apr 2024
+- **Technical and Marketing Team – Kognitiv Club, CSEH, KL University**  
+  Apr 2020 – Present  
+- **Public Relations Team – Samyak Fest, KL University**  
+  Sept 2023 – Apr 2024  
 
 ---
 
 ## 🏆 **Achievements**
 
-- Recognized by **KL University** for building the **Attendance Calculator App**.
-- 9.74 CGPA at KL University (Till 4th Sem)
-- 75% increase in user engagement at DestinEdge
+- Recognized by **KL University** for building the **Attendance Calculator App**.  
+- Achieved **9.74 CGPA** (Till 4th Semester).  
+- Contributed to a **75% user engagement boost** at DestinEdge.  
 
 <!---
 likithkandepu13/likithkandepu13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
