@@ -66,9 +66,9 @@
 
 ## 💻 **Projects**
 
-### 🎯 [Online Donation System](#)  
+### 🎯 [Online Donation System for NGO](#)  
 **Duration:** Dec 2023 - Apr 2024  
-- Built an online donation management system using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+- Built an online donation management system for the Collection of donations in Urban areas, using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 - Integrated a secure payment gateway, simplifying donation processes.
 - Documented system architecture and APIs to streamline team collaboration.
 
