@@ -68,17 +68,6 @@ As a co-founder of Destinedge Tours, I've driven innovative projects that enhanc
 - 20% performance boost via optimization
 - 300+ active monthly users
 
-<div>
-  <a href="[Live Demo URL]">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-FF5722?style=flat-square" alt="Live Demo">
-  </a>
-  <a href="[Code URL]">
-    <img src="https://img.shields.io/badge/💻_View_Code-181717?style=flat-square&logo=github" alt="View Code">
-  </a>
-</div>
-
----
-
 ### 🏡 Homestay Recommendation System
 <div>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
@@ -93,15 +82,6 @@ As a co-founder of Destinedge Tours, I've driven innovative projects that enhanc
 - 90% recommendation accuracy
 - 40% faster search via caching
 - Shortlisted for University Tech Innovation Award
-
-<div>
-  <a href="[Demo URL]">
-    <img src="https://img.shields.io/badge/🎥_Live_Demo-FF0000?style=flat-square&logo=youtube" alt="Live Demo">
-  </a>
-  <a href="[Code URL]">
-    <img src="https://img.shields.io/badge/💻_View_Code-181717?style=flat-square&logo=github" alt="View Code">
-  </a>
-</div>
 
 ---
 
