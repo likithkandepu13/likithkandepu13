@@ -1,122 +1,123 @@
 # 👋 Hi, I'm Likith Anju Sai Bhargav Kandepu
 
-- 👀 I’m interested in Full Stack Web Development  
-- 🌱 I’m currently learning ReactJS, NodeJS, Spring, ExpressJS, and other Technologies that help me build web apps.  
-- 💞️ I’m looking to collaborate on the development of the basic projects that I'm working on  
-- 📫 How to reach me: You can contact me on [LinkedIn](https://www.linkedin.com/in/likithkandepu13/), or raise an issue in any of my repositories.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72E&width=435&lines=Full+Stack+Web+Developer;DevOps+Enthusiast;Cloud+Computing+Learner;Open+Source+Contributor)](https://git.io/typing-svg)
+
+</div>
+
+## 🚀 About Me
+
+- 💻 Passionate about building scalable web applications
+- 🌱 Currently mastering ReactJS, NodeJS, and Spring ecosystems
+- 🔧 DevOps enthusiast exploring CI/CD pipelines and cloud infrastructure
+- 🎯 Goal-oriented with strong problem-solving skills
+- 🤝 Open to collaborations on interesting projects
 
 ---
 
-📧 **Contact Information:**
-- **Phone:** +91-9014327494  
-- **Email:** [2200030837cseh@gmail.com](mailto:2200030837cseh@gmail.com)  
-- **LinkedIn:** [@likithkandepu13](https://www.linkedin.com/in/likithkandepu13/)
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![Likith's GitHub stats](https://github-readme-stats.vercel.app/api?username=likithkandepu13&show_icons=true&theme=radical)](https://github.com/likithkandepu13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likithkandepu13&layout=compact&theme=radical)](https://github.com/likithkandepu13/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=likithkandepu13&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🎓 **Education**
+## 🛠️ Tech Stack
 
-| **Degree**         | **Institute**              | **Board / University** | **CGPA/Percentage** | **Year**    |
-|--------------------|----------------------------|------------------------|---------------------|-------------|
-| B.Tech CSE          | KL University, Guntur      | KLEF                   | 9.74 (Till 4th Sem) | 2022-2026   |
-| Senior Secondary    | Ascent Classes             | BOIE                   | 96.2%               | 2020-2022   |
-| Class X             | Sri Chaitanya School       | CBSE                   | 88.89%              | 2020        |
-
----
-
-## 🛠 **Technical Skills**
-
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-- **Programming Languages:** Java, JavaScript, C  
-- **Full Stack Development:** HTML, CSS, ReactJS, Redux, Node.js, Express, Spring, Hibernate  
-- **Database:** MongoDB, MySQL, PostgreSQL  
-- **Cloud & DevOps:** AWS, Docker, Jenkins, Kubernetes, Terraform, CI/CD, GitHub Actions  
-- **Developer Tools:** VS Code, Git, Eclipse, Postman  
-- **Other Tools:** GraphQL, Automation Anywhere  
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ---
 
-## 💼 **Experience**
+## 📌 Featured Projects
 
-### 🚀 **DestinEdge Tours (Startup)**  
-**Position:** Web Developer and Co-Founder  
-**Location:** Visakhapatnam  
-**Duration:** June 2023 - Present  
-- Led the development of DestinEdge, an Online Travel Agency (OTA) focused on enhancing travel convenience.  
-- Developed a user-centric website using the MERN stack, offering curated travel packages.  
-- Improved website performance by 20% through troubleshooting and debugging.  
-- Implemented new features, increasing user engagement by 75%.  
-- Mission: Deliver seamless, personalized travel experiences.  
+### 🏡 Homestay Recommendation System
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?style=for-the-badge&logo=github)](https://github.com/likithkandepu13/homestay-recommendation-system)
+- Spring Boot + Hibernate + ReactJS application
+- Personalized recommendations based on location and preferences
+- Supports local tourism initiatives
 
----
+### 💰 Online Donation System for NGO
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-black?style=for-the-badge&logo=github)](https://github.com/likithkandepu13/online-donation-system)
+- MERN stack implementation
+- Secure payment gateway integration
+- Comprehensive API documentation
 
-## 💻 **Projects**
-
-### 🎯 Online Donation System for NGO  
-**Duration:** Dec 2023 - Apr 2024  
-- Built an online donation management system using the MERN stack.  
-- Integrated a secure payment gateway for easy transactions.  
-- Documented API architecture for future enhancements and team collaboration.  
-
-### 📊 Attendance Calculator for University Students  
-**Duration:** Mar 2024 - Apr 2024  
-- React-based tool to track and manage student attendance.  
-- Used React hooks and state management for real-time updates.  
-
-### ☁️ Virtual Private Cloud Automation using Docker  
-**Duration:** May 2024  
-- Automated private cloud deployments using Docker containers.  
-- Simplified setup for web apps without involving full CI/CD pipelines.  
-
-### 🏡 Homestay Recommendation System for Local Tourists  
-**Duration:** May 2024 - June 2024  
-- Built using **Spring Boot**, **Hibernate**, and **ReactJS**.  
-- Recommends personalized homestay options based on location and user preferences.  
-- Aimed at supporting local tourism and enhancing traveler convenience.  
+### ✈️ DestinEdge Tours (Startup)
+[![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge)](https://destinedgetours.com)
+- Online Travel Agency platform
+- Increased user engagement by 75%
+- Performance optimized by 20%
 
 ---
 
-## 🎖 **Certifications**
+## 📚 Education
 
-- ![Cambridge](https://img.shields.io/badge/Cambridge-B2-blue?style=flat-square) **Cambridge LinguaSkill English** – B2  
-- ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-A360-orange?style=flat-square) **Essentials RPA Professional** – Automation 360  
-- ![Postman](https://img.shields.io/badge/Postman-API--Expert-orange?style=flat-square) **Postman Student Expert**  
-- ![Azure](https://img.shields.io/badge/Microsoft-AI_900-blue?style=flat-square) **Microsoft Azure AI-900**  
-- ![Coding Platforms](https://img.shields.io/badge/Competitive_Programming-Active-blue?style=flat-square) **Competitive Programmer** – Active on various CP platforms  
-
----
-
-## 🌐 **Positions of Responsibility**
-
-- **Technical and Marketing Team – Kognitiv Club, CSEH, KL University**  
-  Apr 2020 – Present  
-- **Public Relations Team – Samyak Fest, KL University**  
-  Sept 2023 – Apr 2024  
+| **Degree**         | **Institute**              | **Year**    | **Performance**       |
+|--------------------|----------------------------|-------------|-----------------------|
+| B.Tech CSE         | KL University, Guntur      | 2022-2026   | 9.74 CGPA (Till 4th Sem) |
+| Senior Secondary   | Ascent Classes             | 2020-2022   | 96.2%                |
+| Class X            | Sri Chaitanya School       | 2020        | 88.89%               |
 
 ---
 
-## 🏆 **Achievements**
+## 📞 Contact Me
 
-- Recognized by **KL University** for building the **Attendance Calculator App**.  
-- Achieved **9.74 CGPA** (Till 4th Semester).  
-- Contributed to a **75% user engagement boost** at DestinEdge.  
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likithkandepu13/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2200030837cseh@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-9014327494-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+919014327494)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/likithkandepu13)
 
-<!---
-likithkandepu13/likithkandepu13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+
+---
+
+<div align="center">
+  
+![Visitor Count](https://komarev.com/ghpvc/?username=likithkandepu13&label=Profile%20Views&color=blueviolet&style=flat-square)
+
+</div>
