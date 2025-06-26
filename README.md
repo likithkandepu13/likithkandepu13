@@ -16,14 +16,11 @@
 <!-- Compact Language Stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likithkandepu13&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/likithkandepu13/github-readme-stats)
 
-<!-- GUARANTEED WORKING SNAKE ANIMATION -->
+<!-- GUARANTEED WORKING ACTIVITY GRAPH -->
+[![Likith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=likithkandepu13&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)](https://github.com/likithkandepu13)
+
+<!-- SNAKE ANIMATION -->
 ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-<!-- ALTERNATE STREAK STATS -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=likithkandepu13&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<!-- 3D CONTRIBUTIONS GRAPH -->
-[![Likith's GitHub activity graph](https://github-readme-3d-activity-graph.vercel.app/graph?username=likithkandepu13&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -64,7 +61,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likithkandepu13/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2200030837cseh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://likithkandepu13.github.io)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/likithkandepu13/)
 
 </div>
 
