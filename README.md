@@ -16,14 +16,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  
-[![Likith's GitHub stats](https://github-readme-stats.vercel.app/api?username=likithkandepu13&show_icons=true&theme=radical)](https://github.com/likithkandepu13/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likithkandepu13&layout=compact&theme=radical)](https://github.com/likithkandepu13/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=likithkandepu13&theme=radical)](https://git.io/streak-stats)
+<!-- GitHub Stats -->
+[![Likith's GitHub stats](https://github-readme-stats.vercel.app/api?username=likithkandepu13&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/likithkandepu13/github-readme-stats)
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=likithkandepu13&theme=radical)](https://git.io/streak-stats)
+
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likithkandepu13&layout=compact&theme=radical&langs_count=8)](https://github.com/likithkandepu13/github-readme-stats)
+
+<!-- Snake Animation -->
+![Snake animation](https://github.com/likithkandepu13/likithkandepu13/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Activity Graph -->
+[![Likith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=likithkandepu13&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -100,6 +110,16 @@
 | B.Tech CSE         | KL University, Guntur      | 2022-2026   | 9.74 CGPA (Till 4th Sem) |
 | Senior Secondary   | Ascent Classes             | 2020-2022   | 96.2%                |
 | Class X            | Sri Chaitanya School       | 2020        | 88.89%               |
+
+---
+
+## 🏆 Achievements
+
+- 🏅 Recognized by KL University for building the Attendance Calculator App
+- 📈 Achieved 9.74 CGPA (Till 4th Semester)
+- 🚀 Contributed to 75% user engagement boost at DestinEdge
+- 🏆 Postman Student Expert certified
+- 🎖 Microsoft Azure AI-900 certified
 
 ---
 
