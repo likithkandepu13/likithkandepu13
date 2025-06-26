@@ -83,6 +83,36 @@ As a co-founder of Destinedge Tours, I've driven innovative projects that enhanc
 - 40% faster search via caching
 - Shortlisted for University Tech Innovation Award
 
+### ❤️ NGO Donation Platform
+<div>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe">
+</div>
+
+**Features:** Secure donation processing, donor analytics dashboard, campaign management, receipt generation  
+**Tech Stack:** React.js, Firebase, Stripe API, Material UI  
+
+**Impact:**
+- Processed $50,000+ in donations
+- 95% successful transaction rate
+- Reduced administrative overhead by 40%
+
+### 🤖 Automatic CI/CD Pipeline with VPC (Terraform)
+<div>
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+</div>
+
+**Features:** Infrastructure as Code, automated blue-green deployments, VPC network isolation, monitoring integration  
+**Tech Stack:** Terraform, AWS (EC2, VPC, S3), Jenkins, Prometheus  
+
+**Impact:**
+- 90% faster deployment cycles
+- 99.9% infrastructure reliability
+- Reduced cloud costs by 25% through optimized resource allocation
+
 ---
 
 ## 🛠️ Technical Skills
