@@ -5,16 +5,16 @@
 </div>
 
 <div align="center">
-  <a href="[Your LinkedIn URL]">
+  <a href="https://www.linkedin.com/in/likithkandepu13/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[Your Email]">
+  <a href="mailto:withlikith@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="[Your GitHub URL]">
+  <a href="#">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="[Your Portfolio URL]">
+  <a href="https://likithkandepu.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </div>
