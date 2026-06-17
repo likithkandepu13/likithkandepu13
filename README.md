@@ -23,9 +23,8 @@
 
 ## 🚀 About Me
 
-I'm a pre-final year Computer Science student at KL University with a CGPA of 9.74, passionate about building scalable, AI-powered web applications and optimizing cloud-based infrastructure. With expertise in Java, JavaScript, React, Spring Boot, AWS, and DevOps tools, I thrive on creating impactful solutions through full-stack development and open-source contributions.
+I'm passionate about building scalable, AI-powered web applications and optimizing cloud-based infrastructure. With expertise in Java, JavaScript, React, Spring Boot, AWS, and DevOps tools, I thrive on creating impactful solutions through full-stack development and open-source contributions.
 
-As a co-founder of Destinedge Tours, I've driven innovative projects that enhance user engagement and streamline operations.
 
 ---
 
@@ -43,7 +42,7 @@ As a co-founder of Destinedge Tours, I've driven innovative projects that enhanc
 ## 💼 Professional Experience
 
 ### 🏢 Software Developer & Co-Founder  
-**Destinedge Tours** | 📅 Jun 2023 – Present  
+**Destinedge Tours** | 📅 Jun 2023 – May 2026
 
 - Engineered scalable web features for destinedge.in using React.js, MUI, MySQL, and Jenkins CI/CD, reducing query response time by 30% and serving 5,000+ users
 - Optimized front-end performance with React.js, JavaScript, and Bootstrap, achieving 25% faster page loads and 20% higher user engagement
